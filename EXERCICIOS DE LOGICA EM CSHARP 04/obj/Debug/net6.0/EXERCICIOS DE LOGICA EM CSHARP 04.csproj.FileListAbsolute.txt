@@ -1,0 +1,15 @@
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.exe
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.deps.json
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.runtimeconfig.json
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.dll
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.pdb
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.csproj.AssemblyReference.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.AssemblyInfoInputs.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.AssemblyInfo.cs
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.dll
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\refint\EXERCICIOS DE LOGICA EM CSHARP 04.dll
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.pdb
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP 04.genruntimeconfig.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP 04\obj\Debug\net6.0\ref\EXERCICIOS DE LOGICA EM CSHARP 04.dll

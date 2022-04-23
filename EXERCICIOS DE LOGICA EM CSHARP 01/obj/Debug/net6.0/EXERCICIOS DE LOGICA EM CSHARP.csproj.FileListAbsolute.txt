@@ -1,0 +1,15 @@
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.exe
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.deps.json
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.runtimeconfig.json
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.dll
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\bin\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.pdb
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.csproj.AssemblyReference.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.AssemblyInfoInputs.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.AssemblyInfo.cs
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.dll
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\refint\EXERCICIOS DE LOGICA EM CSHARP.dll
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.pdb
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\EXERCICIOS DE LOGICA EM CSHARP.genruntimeconfig.cache
+C:\Users\Jessica Nepomuceno\source\repos\EXERCICIOS DE LOGICA EM CSHARP\obj\Debug\net6.0\ref\EXERCICIOS DE LOGICA EM CSHARP.dll
